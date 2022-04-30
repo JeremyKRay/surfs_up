@@ -21,7 +21,7 @@ Below are the Summary Statistics for December
   
 ## Summary
 
-The weather based on temperature in Oahu in June and in December does not vary by a very large margin and would definitely sustain surfing and ice cream sales. W. Avy ahould open his shop based on weather. W. Avy should also include Hwaiian Shave Ice with his shop because they are delicious and I believe the weather promotes the sustainability of their sales year round as well.
+The temperature in Oahu in June and in December does not vary by a very large margin and would definitely sustain surfing and ice cream sales. It is advisable that W. Avy open his surf and ice cream shop based on temperature. In addition, W. Avy should also include Hwaiian Shave Ice with his shop because they are delicious and I believe the weather promotes the sustainability of their sales year round as well.
 
 Two additional queries that should be performed to gather more weather data for June and December are:
   1) A comparison of precipitation to see if there is a stormy season that would prevent people from wanting to surf or enjoy ice cream
