@@ -5,7 +5,7 @@ Using SQLite, Python, Pandas functions and methods, and SQLAlchemy, W. AVY, the 
 ### Strategy
 To complete this task, two deliverables were produced. The first deliverable was an analysis for the month of June and the second deliverable was an analysis for the month of December. Each analysis included a link to the Hawaii sqlite database and a query that filtered the measurement table to retrieve temperatures for the specified month. The results were converted to a list and then to a Pandas dataframe where the results could easily be summarized statistically. Please refer to the full code by clicking the following link 
 
-![Surfs Up Code](SurfsUp_Challenge.ipynb). 
+[Surfs Up Code](SurfsUp_Challenge.ipynb). 
 
 ### Analysis
 There are three major points from the two analyisis deliverables
